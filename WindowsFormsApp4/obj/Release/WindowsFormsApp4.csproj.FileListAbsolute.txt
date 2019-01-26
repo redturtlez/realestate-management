@@ -1,0 +1,9 @@
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form2.resources
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\Simone\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
